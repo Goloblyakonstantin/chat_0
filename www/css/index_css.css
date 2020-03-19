@@ -1,0 +1,15 @@
+@font-face {
+font-family: 'Gilroy Ultra Light';
+src: url('../fonts/Gilroy-UltraLight.eot');
+src: url('../fonts/Gilroy-UltraLifonts/ght.eot?#iefix') format('embedded-opentype'),
+url('../fonts/Gilroy-UltraLight.woff') format('woff'),
+url('../fonts/Gilroy-UltraLight.ttf') format('truetype');
+font-style: normal;
+}
+body
+{
+	font-family:'Gilroy Ultra Light','Impact';
+	font-weight: 900;
+	width:100%;
+	margin:0;
+}
